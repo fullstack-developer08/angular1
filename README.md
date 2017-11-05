@@ -1,27 +1,27 @@
 # gulp-pug
 > using gulp plugin for compiling pug templates
 
-** intsall gulp in our system
+#### intsall gulp in our system
 `
 npm install -g gulp
 `
 
-** install gulp locally (Project/folder wise)
+#### install gulp locally (Project/folder wise)
 `
 npm install gulp
 `
 
-** install gulp-eslint locally
+#### install gulp-eslint locally
 `
 npm install gulp-eslint
 `
 
-** run eslint
+#### run eslint
 `
 gulp eslint
 `
 
-** to run eslint proper we need to create .eslintrc.js
+#### to run eslint proper we need to create .eslintrc.js
 ```javascript
 module.exports = {
     "env": {
