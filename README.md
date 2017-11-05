@@ -22,7 +22,7 @@ gulp eslint
 `
 
 # to run eslint proper we need to create .eslintrc.js
-`
+```javascript
 module.exports = {
     "env": {
         "browser": true
@@ -41,4 +41,4 @@ module.exports = {
         "indent": ["warn", 4, {"MemberExpression": 1}]
     }
 };
-`
+```
