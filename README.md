@@ -21,7 +21,7 @@ npm install gulp-eslint
 gulp eslint
 `
 
-#### to run eslint proper we need to create .eslintrc.js
+####>pug  to run eslint proper we need to create .eslintrc.js
 ```javascript
 module.exports = {
     "env": {
